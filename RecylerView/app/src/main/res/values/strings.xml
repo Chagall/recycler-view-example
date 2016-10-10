@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recyler View</string>
+
+    <string name="activity_logo">Activity Logo</string>
+
+    <string name="cast">Elenco</string>
+
+
+    <!-- Card View Default Strings -->
+    <string name="card_view_image_content_description">Card View Image</string>
+    <string name="card_view_title">Card View Title</string>
+    <string name="card_view_description">Card View Description</string>
+    <string name="card_view_show_more">MOSTRAR MAIS</string>
+
+    <!-- Cast Members -->
+    <string name="simone_name">Simone Spoladore</string>
+    <string name="malu_name">Maria Luiza Mendonça</string>
+    <string name="adriano_name">Adriano Garib</string>
+    <string name="marcos_name">Marcos Winter</string>
+</resources>
