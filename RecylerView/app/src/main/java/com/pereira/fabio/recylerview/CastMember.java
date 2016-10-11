@@ -11,7 +11,7 @@ public class CastMember {
     ////////////////////////////////////////////////////////////
 
     private String name;
-    private String bio;
+    private String characterName;
 
     ////////////////////////////////////////////////////////////
     // Constructors
@@ -19,12 +19,12 @@ public class CastMember {
 
     public CastMember(){
         this.name = "";
-        this.bio = "";
+        this.characterName = "";
     }
 
-    public CastMember(String name, String bio){
+    public CastMember(String name, String characterName){
         this.name = name;
-        this.bio = bio;
+        this.characterName = characterName;
     }
 
     ///////////////////////////////////////////////////////////////////////////
@@ -35,8 +35,8 @@ public class CastMember {
         this.name = name;
     }
 
-    public void setBio(String bio) {
-        this.bio = bio;
+    public void setCharacterName(String characterName) {
+        this.characterName = characterName;
     }
 
     ///////////////////////////////////////////////////////////////////////////
@@ -47,8 +47,8 @@ public class CastMember {
         return name;
     }
 
-    public String getBio() {
-        return bio;
+    public String getCharacterName() {
+        return characterName;
     }
 
 }

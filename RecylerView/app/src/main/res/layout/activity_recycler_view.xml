@@ -5,31 +5,16 @@
     tools:context="com.pereira.fabio.recylerview.RecyclerViewActivity"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@android:color/black">
 
-    <FrameLayout
-        android:id="@+id/activity_logo_frame_layout"
+    <ImageView
+        android:id="@+id/activity_logo_image_view"
+        android:src="@drawable/westworld"
+        android:contentDescription="@string/activity_logo"
+        android:scaleType="centerCrop"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <ImageView
-            android:id="@+id/activity_logo_image_view"
-            android:src="@drawable/magnifica_70_logo"
-            android:contentDescription="@string/activity_logo"
-            android:scaleType="fitXY"
-            android:layout_width="match_parent"
-            android:layout_height="150dp" />
-        <TextView
-            android:id="@+id/activity_logo_text_view"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="bottom"
-            android:textAlignment="center"
-            android:text="@string/cast"
-            android:textSize="24sp"
-            android:textColor="@android:color/white"
-            android:background="#60000000"
-            fontPath="fonts/Roboto-Regular.ttf"/>
-    </FrameLayout>
+        android:layout_height="150dp" />
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/activity_recycler_view"

@@ -3,18 +3,68 @@
 
     <string name="activity_logo">Activity Logo</string>
 
-    <string name="cast">Elenco</string>
-
+    <string name="logo_text">WESTWORLD</string>
 
     <!-- Card View Default Strings -->
     <string name="card_view_image_content_description">Card View Image</string>
     <string name="card_view_title">Card View Title</string>
     <string name="card_view_description">Card View Description</string>
-    <string name="card_view_show_more">MOSTRAR MAIS</string>
+    <string name="card_view_show_more">SHOW MORE</string>
 
     <!-- Cast Members -->
-    <string name="simone_name">Simone Spoladore</string>
-    <string name="malu_name">Maria Luiza Mendonça</string>
-    <string name="adriano_name">Adriano Garib</string>
-    <string name="marcos_name">Marcos Winter</string>
+    <string name="evan_rachel_wood">Evan Rachel Wood</string>
+    <string name="thandie_newton">Thandie Newton</string>
+    <string name="jeffrey_wright">Jeffrey Wright</string>
+    <string name="james_marsden">James Marsden</string>
+    <string name="luke_hemsworth">Luke Hemsworth</string>
+    <string name="sidse_babett_knudsen">Sidse Babett Knudsen</string>
+    <string name="simon_quarterman">Simon Quarterman</string>
+    <string name="angela_sarafyan">Angela Sarafyan</string>
+    <string name="shannon_woodward">Shannon Woodward</string>
+    <string name="ed_harris">Ed Harris</string>
+    <string name="anthony_hopkins">Anthony Hopkins</string>
+    <string name="jimmi_simpson">Jimmi Simpson</string>
+    <string name="rodrigo_santoro">Rodrigo Santoro</string>
+    <string name="ingrid_bolsø_berdal">Ingrid Bolsø Berdal</string>
+    <string name="ben_barnes">Ben Barnes</string>
+    <string name="clifton_collins_jr">Clifton Collins Jr.</string>
+    <string name="tessa_thompson">Tessa Thompson</string>
+    <string name="vivienne_taylor">Vivienne Taylor</string>
+    <string name="louis_herthum">Louis Herthum</string>
+    <string name="oliver_bell">Oliver Bell</string>
+    <string name="jeff_daniel_phillips">Jeff Daniel Phillips</string>
+    <string name="bradley_fisher">Bradley Fisher</string>
+    <string name="james_landry_hébert">James Landry Hébert</string>
+    <string name="mike_watson">Mike Watson</string>
+
+    <!-- Cast Members Characters -->
+    <string name="dolores_abernathy">Dolores Abernathy</string>
+    <string name="maeve_millay">Maeve Millay</string>
+    <string name="bernard_lowe">Bernard Lowe</string>
+    <string name="teddy_flood">Teddy Flood</string>
+    <string name="ashley_stubbs">Ashley Stubbs</string>
+    <string name="theresa_cullen">Theresa Cullen</string>
+    <string name="lee_sizemore">Lee Sizemore</string>
+    <string name="clementine_pennyfeather">Clementine Pennyfeather</string>
+    <string name="elsie_hughes">Elsie Hughes</string>
+    <string name="man_in_black">Man in Black</string>
+    <string name="dr_robert_ford">Dr. Robert Ford</string>
+    <string name="william">William</string>
+    <string name="hector_escaton">Hector Escaton</string>
+    <string name="armistice">Armistice</string>
+    <string name="logan">Logan</string>
+    <string name="lawrence">Lawrence</string>
+    <string name="charlotte_hale">Charlotte Hale</string>
+    <string name="reveler">Reveler</string>
+    <string name="peter_abernathy">Peter Abernathy</string>
+    <string name="little_boy"> Little Boy</string>
+    <string name="tenderloin">Tenderloin</string>
+    <string name="mariposa_bartender"> Mariposa Bartender</string>
+    <string name="slim_miller"> Slim Miller</string>
+    <string name="watson">Watson</string>
+
+
+
+
+
 </resources>
