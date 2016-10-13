@@ -2,6 +2,7 @@
 
 ## Recycler View Usage
 TODO
+
 ![alt text][screenshot]
 [screenshot]: http://i.imgur.com/h3oGHgk.png "Card View Screenshot"
 ## Libraries used
