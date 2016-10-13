@@ -28,7 +28,7 @@ public class RecyclerViewActivity extends AppCompatActivity {
 
         initCastMemberArrayList();
 
-        castMemberRecyclerViewAdapter = new CastMemberRecyclerViewAdapter(castMemberArrayList);
+        castMemberRecyclerViewAdapter = new CastMemberRecyclerViewAdapter(castMemberArrayList, this);
         castMemberRecyclerView.setAdapter(castMemberRecyclerViewAdapter);
     }
 
