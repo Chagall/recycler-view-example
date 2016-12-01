@@ -63,8 +63,8 @@
     <string name="slim_miller"> Slim Miller</string>
     <string name="watson">Watson</string>
 
-
-
-
+    <!-- Splash Screen Text -->
+    <string name="splash_image_content_description">WESTWORLD</string>
+    <string name="splash_text">CARACTER CAST</string>
 
 </resources>

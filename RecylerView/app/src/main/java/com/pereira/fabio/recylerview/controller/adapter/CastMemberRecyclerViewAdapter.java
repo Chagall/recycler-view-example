@@ -1,4 +1,4 @@
-package com.pereira.fabio.recylerview;
+package com.pereira.fabio.recylerview.controller.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.pereira.fabio.recylerview.R;
+import com.pereira.fabio.recylerview.model.CastMember;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

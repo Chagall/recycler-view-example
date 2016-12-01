@@ -1,13 +1,18 @@
-package com.pereira.fabio.recylerview;
+package com.pereira.fabio.recylerview.controller.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
+import com.pereira.fabio.recylerview.controller.adapter.CastMemberRecyclerViewAdapter;
+import com.pereira.fabio.recylerview.model.CastMember;
+import com.pereira.fabio.recylerview.R;
+import com.pereira.fabio.recylerview.utils.GridSpacingItemDecoration;
+
 import java.util.ArrayList;
 
-public class RecyclerViewActivity extends AppCompatActivity {
+public class CastMembersListActivity extends AppCompatActivity {
 
     RecyclerView castMemberRecyclerView;
     CastMemberRecyclerViewAdapter castMemberRecyclerViewAdapter;

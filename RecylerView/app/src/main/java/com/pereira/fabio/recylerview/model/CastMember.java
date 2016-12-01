@@ -1,4 +1,4 @@
-package com.pereira.fabio.recylerview;
+package com.pereira.fabio.recylerview.model;
 
 /**
  * Created by fabiopereira on 10/10/16.

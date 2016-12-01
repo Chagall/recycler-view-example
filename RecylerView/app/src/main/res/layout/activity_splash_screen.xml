@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.pereira.fabio.recylerview.controller.activity.SplashScreenActivity"
+    android:id="@+id/activity_splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/splashBackgroungGrey">
+
+    <ImageView
+        android:id="@+id/splash_logo"
+        android:src="@drawable/splash_logo"
+        android:contentDescription="@string/splash_image_content_description"
+        android:layout_centerInParent="true"
+        android:layout_width="264dp"
+        android:layout_height="264dp" />
+
+    <TextView
+        android:id="@+id/splash_text_view"
+        android:text="@string/splash_text"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:textColor="@color/splashTextGrey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/splash_logo"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold"
+        fontPath="fonts/Roboto-Bold.ttf"/>
+</RelativeLayout>
